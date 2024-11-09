@@ -17,7 +17,6 @@ git checkout master                              - to go to the present working 
 
 
 
-
 Basic LINUX/Bash terminal commands               - Description  
 
 echo "string"/ echo $anyVariableNameHere         - to print the given stirng or variable value on the terminal  
