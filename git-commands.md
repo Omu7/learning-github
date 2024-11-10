@@ -41,4 +41,3 @@ alias                                            - to make a shortcut for larger
 
 
 
-🚀 Taking my next step in backend development with essential Linux/Bash commands! 🖥️ The terminal is a powerful tool for backend developers, making tasks faster and more efficient. Using CLI really helps to work fast and streamline workflow! #nodejs #mern
