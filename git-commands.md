@@ -1,1 +1,1 @@
-md file has no content
+command file in empty
